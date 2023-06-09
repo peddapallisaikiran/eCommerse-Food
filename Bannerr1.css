@@ -1,0 +1,46 @@
+.img-card {
+    background-color: white;
+    text-align: center;
+    border-style: solid;
+    border-width: 5px;
+    color: #e5eaf4;
+    border-radius: 16px;
+}
+
+.section-cont {
+    background-color: #f9fbfe;
+}
+.head1 {
+    font-family: "Roboto";
+    font-size: 40px;
+    color: #183b56;
+    font-weight: 600;
+}
+.para1 {
+    font-size: 20px;
+    color: #5a7184;
+    font-weight: 500;
+    
+}
+.image1 {
+    height: 110px;
+    width: 90px;
+}
+.head12 {
+    font-size: 40px;
+    color: #323f4b;
+    font-weight: 500;
+}
+.para12 {
+    font-size: 20px;
+    color: #5a7184;
+    font-weight: 500;
+}
+.offers {
+    font-weight: bolder;
+    color: black;
+}
+.image2 {
+    height: 110px;
+    width: 100px;
+}

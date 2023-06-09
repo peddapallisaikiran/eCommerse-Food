@@ -1,0 +1,65 @@
+.section-bgi {
+    background-color: #f9fbfe;
+}
+.img1 {
+    width: 280px;
+}
+.head3 {
+    font-size: 30px;
+    color: #183b56;
+    font-weight: 600;
+}
+.para3 {
+    font-size: 20px;
+    color:  #5a7184;
+    font-weight: 400;
+}
+.center{
+    text-align: center;
+}
+.button {
+    width: 138px;
+    height: 38px;
+    color: white;
+    background-color: #d0b200;
+    border-radius: 10px;
+    border-width: 0px;
+    margin-right: 10px;
+}
+.text-center {
+    text-align: center;
+}
+.img-card1 {
+    height: 70px;
+    width: 70px;
+    margin-right: 28px;
+}
+.section {
+    background-color: #d8d1a6;
+}
+.sai {
+    margin-left: 100px;
+}
+.icon {
+    color: #d0b200;
+    font-size: 35px;
+    
+}
+.sec-icon {
+    width: 80px;
+    height: 80px;
+    background-color: #faf7e8;
+    padding-top: 22px;
+    padding-bottom: 16px;
+    padding-left: 22px;
+    padding-right: 16px;
+    margin: 15px;
+    border-radius: 40px;
+}
+
+
+.headd {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 500;
+}
